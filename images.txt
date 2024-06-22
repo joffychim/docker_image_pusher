@@ -1,2 +1,2 @@
 tensorchord/pgvecto-rs:pg14-v0.2.0
-imagegenius/immich:latest
+ghcr.io/imagegenius/immich:latest
